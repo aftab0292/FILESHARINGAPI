@@ -1,14 +1,1 @@
-[
-  {
-    "fieldname": "file",
-    "originalname": "PM-RS4-WHITE-C-Z-FRONT.jpg",
-    "encoding": "7bit",
-    "mimetype": "image/jpeg",
-    "destination": "public/uploads/",
-    "filename": "file-1680358063480.jpg",
-    "path": "public/uploads/file-1680358063480.jpg",
-    "size": 38893,
-    "publicKey": "dd6634aa-25c7-49ad-9d72-ee066cf6cc7a",
-    "privateKey": "6645d6c2-a9a0-4f7a-83c6-4e3a072d886a"
-  }
-]
+[]
